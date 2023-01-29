@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc on Shantanu Rahman&#39;s Blog</title>
+    <link>https://www.shantanurahman.com/tags/misc/</link>
+    <description>Recent content in misc on Shantanu Rahman&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jan 2023 19:19:16 +0600</lastBuildDate><atom:link href="https://www.shantanurahman.com/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting a blog</title>
+      <link>https://www.shantanurahman.com/posts/hello-world/</link>
+      <pubDate>Sun, 29 Jan 2023 19:19:16 +0600</pubDate>
+      
+      <guid>https://www.shantanurahman.com/posts/hello-world/</guid>
+      <description>I have been on a journey of coding, learning, reading for a long time. It did occur to me multiple times that maybe I really should start a blog. This is not just for others to read but also as an acknowledgement to myself as a person I have become and who I strive to be in the future. Over the years my interests change. It could have been interesting to see across the years my thoughts evolving and, hopefully, growing.</description>
+    </item>
+    
+  </channel>
+</rss>
