@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>shantanu404.github.io</id>
+  <id>https://www.shantanurahman.com</id>
   <title>Shantanu Rahman Blog</title>
-  <updated>2023-01-28T15:24:42.438564+00:00</updated>
-  <link href="shantanu404.github.io"/>
-  <link href="shantanu404.github.io/blog/atom.xml" rel="self"/>
+  <updated>2023-01-29T09:26:40.631905+00:00</updated>
+  <link href="https://www.shantanurahman.com"/>
+  <link href="https://www.shantanurahman.com/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33">ABlog</generator>
   <entry>
-    <id>shantanu404.github.io/first-post/</id>
+    <id>https://www.shantanurahman.com/posts/first-post/</id>
     <title>Starting a blog</title>
     <updated>2023-01-28T00:00:00+06:00</updated>
     <author>
@@ -17,7 +17,7 @@
 &lt;p&gt;I have been on a journey of coding, learning, reading for a long time. It did occur to me multiple times that maybe I really should start a blog. This is not just for others to read but also as an acknowledgement to myself as a person I have become and who I strive to be in the future. Over the years my interests change. It could have been interesting to see across the years my thoughts evolving and, hopefully, growing. In these last years of my bachelors, the time has finally come.&lt;/p&gt;
 &lt;/div&gt;
 </content>
-    <link href="shantanu404.github.io/first-post/" rel="alternate"/>
+    <link href="https://www.shantanurahman.com/posts/first-post/" rel="alternate"/>
     <summary>I have been on a journey of coding, learning, reading for a long time. It did occur to me multiple times that maybe I really should start a blog. This is not just for others to read but also as an acknowledgement to myself as a person I have become and who I strive to be in the future. Over the years my interests change. It could have been interesting to see across the years my thoughts evolving and, hopefully, growing. In these last years of my bachelors, the time has finally come.</summary>
     <category term="misc" label="misc"/>
     <category term="thoughts" label="thoughts"/>

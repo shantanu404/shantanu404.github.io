@@ -1,8 +1,8 @@
 
 .. _about:
 
-About Shantanu Rahman
-=====================
-Programmer || Hacker || Logic Designer || Problem Solver || Researcher || Developer 
+About Me 🧑‍💻
+===================
+Programmer || Hacker || Logic Designer || Problem Solver || Researcher || Developer
 
-I'm a undergraduate in Electrical and Electronic Engineering from IUT. My expertise is in Communication System and Software Development. I have been coding since high school and have 7+ years of experience of coding and developing. I have a very advanced skill set in algorithms and data-structures from Competitive Programming. Currently focusing on research and exploration on AI/ML, Control systems, Robotics, Embedded systems programming and CTF (Hacking competitions for Ethical Hackers). I love Linux and have a very good understanding of software and hardware. I am a polyglot proficient in different programming languages including but not limited to MATLAB, C/C++, C#, Python, ECMAScript, Rust etc.
+I'm a undergraduate in Electrical and Electronic Engineering from `IUT <https://www.iutoic-dhaka.edu>`_. My expertise is in Communication System and Software Development. I have been coding since high school and have 7+ years of experience of coding and developing. I have a very advanced skill set in algorithms and data-structures from Competitive Programming. Currently focusing on research and exploration on AI/ML, Control systems, Robotics, Embedded systems programming and CTF (Hacking competitions for Ethical Hackers). I love Linux and have a very good understanding of software and hardware. I am a polyglot proficient in different programming languages including but not limited to MATLAB, C/C++, C#, Python, ECMAScript, Rust etc.

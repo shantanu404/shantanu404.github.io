@@ -1,0 +1,13 @@
+.. post:: Jan 28, 2023
+   :tags: misc, thoughts
+   :author: Shantanu Rahman
+
+Starting a blog
+===============
+
+I have been on a journey of coding, learning, reading for a long time. It did occur to me multiple times that maybe I really should start a blog. This is not just for others to read but also as an acknowledgement to myself as a person I have become and who I strive to be in the future. Over the years my interests change. It could have been interesting to see across the years my thoughts evolving and, hopefully, growing. In these last years of my bachelors, the time has finally come.
+
+Hi, I am Shantanu Rahman and welcome to **Shantanu Rahman's Blog**! You can learn more about me :ref:`here <about>`. Don't be shy to contact me. As `Seneca <https://en.wikipedia.org/wiki/Seneca_the_Younger>`_ said:
+	There is no enjoying the possesion of anything valuable unless one has someone to share it with
+
+And what better possesion there is than knowledge. Enjoy your stay and hope you find what you need.
