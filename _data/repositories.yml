@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shantanu404
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shantanu404/shaker
+  - shantanu404/vehicle_controller
+  - shantanu404/random_forest_speaker_recognizer
+  - shantanu404/ultrasonic_communication
+  - shantanu404/sequence-recognizer
+  - shantanu404/semester_manager
+  - shantanu404/gas_simulation
+  - shantanu404/pygame-physics
