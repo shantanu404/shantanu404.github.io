@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: shantanurahman.com/sitemap.xml
+Sitemap: https://www.shantanurahman.com/sitemap.xml
