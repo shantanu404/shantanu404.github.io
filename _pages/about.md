@@ -20,7 +20,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am an Embedded Systems Engineer at [TherapBD Ltd](https://therapbd.com). I work with the Computer Vision Team to assist them in running computer vision models on Edge IoT devices. In addition, I am working as a researcher in [Independent University of Bangladesh](https://iub.ac.bd). I graduated Summa Cum Laude (3.88/4.00, Rank: 13<sup>th</sup>) from [Islamic University of Technology, Gazipur](https://www.iutoic-dhaka.edu) in July, 2024. My undergraduate thesis was under the supervsion of [Dr. Golam Sarowar](https://eee.iutoic-dhaka.edu/profile/asim/education).
+I am a Machine Learning Engineer at [TherapBD Ltd](https://therapbd.com). I work with the Computer Vision Team to assist them in running computer vision models on Edge IoT devices. In addition, I am working as a researcher in [Independent University of Bangladesh](https://iub.ac.bd). I graduated Summa Cum Laude (3.88/4.00, Rank: 13<sup>th</sup>) from [Islamic University of Technology, Gazipur](https://www.iutoic-dhaka.edu) in July, 2024. My undergraduate thesis was under the supervsion of [Dr. Golam Sarowar](https://eee.iutoic-dhaka.edu/profile/asim/education).
 
 My research interest lies on an wide array of fields including computer scince, control theory, machine learning, and robotics, with focus on motion-planning, multi-agent systems, computer vision, edge AI, and IoT. My research focuses on the reliablity and architecture of such systems.
 
