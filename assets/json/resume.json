@@ -28,10 +28,100 @@
     ]
   },
 
+  "publications": [
+    {
+      "name": "Flow-Based Path Planning for Multiple Homogenous UAVs for Outdoor Formation-Flying",
+      "publisher": "IEEE (ICMERR 2022)",
+      "releaseDate": "2022-12-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Techno-Economic Analysis of Solar/Wind/Biogas Hybrid Renewable Energy System in Bangladesh Using Metaheuristic Algorithms",
+      "publisher": "IEEE (ICAEECI 2023)",
+      "releaseDate": "2023-10-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular-Camera Lane Detection",
+      "publisher": "Islamic University of Technology (Undergraduate Thesis)",
+      "releaseDate": "2024-04-01",
+      "url": "",
+      "summary": ""
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Islamic University of Technology (IUT)",
+      "url": "https://www.iutoic-dhaka.edu/",
+      "area": "Electrical & Electronic Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-01",
+      "endDate": "2024-04",
+      "score": "CGPA 3.88 / 4.00 (13th of 150+)",
+      "courses": [
+        "CGPA 3.88 / 4.00 (13th of 150+)",
+        "Digital Signal Processing",
+        "Data Structures & Algorithms",
+        "Digital Logic Design",
+        "Embedded Systems Design (8051)",
+        "Microprocessor & Assembly Language (8086)"
+      ]
+    },
+    {
+      "institution": "Notre Dame College, Dhaka",
+      "url": "https://ndc.edu.bd/",
+      "area": "Science",
+      "studyType": "Higher Secondary School Certificate",
+      "startDate": "2017-07",
+      "endDate": "2019-06",
+      "score": "GPA 5.00"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Project Altair Mars Rover",
+      "startDate": "2022-01",
+      "endDate": "2024-12",
+      "highlights": [
+        "Designed and built a Mars-analog rover with multidisciplinary undergraduate team; responsible for full electrical and software stack."
+      ],
+      "url": "https://www.linkedin.com/company/project-altair/"
+    },
+    {
+      "name": "Swarm-UAV Formation-Flying Algorithm",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "description": "Flow-based path-planning algorithm enabling outdoor formation flight of multiple homogenous UAVs.",
+      "highlights": ["Implemented from scratch in C++ and Python", "Validated through real-world flight tests"],
+      "url": ""
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "OIC Full Scholarship",
+      "date": "2020-01",
+      "awarder": "Islamic University of Technology",
+      "summary": "Awarded for ranking first in the IUT entrance examination."
+    },
+    {
+      "title": "ABEx Award - Best Science Task, IRC 2023",
+      "date": "2023-09",
+      "awarder": "International Rover Challenge",
+      "summary": "Recognised the outstanding science-task of Project Altair's rover."
+    }
+  ],
+
+  "certificates": [],
+
   "work": [
     {
       "name": "Therap (BD) Ltd.",
-      "position": "Associate Embedded Systems Engineer",
+      "position": "Machine Learning Engineer",
       "url": "https://therapbd.com/",
       "startDate": "2024-07",
       "endDate": "",
@@ -87,75 +177,6 @@
     }
   ],
 
-  "education": [
-    {
-      "institution": "Islamic University of Technology (IUT)",
-      "url": "https://www.iutoic-dhaka.edu/",
-      "area": "Electrical & Electronic Engineering",
-      "studyType": "Bachelor of Science",
-      "startDate": "2020-01",
-      "endDate": "2024-04",
-      "score": "CGPA 3.88 / 4.00 (13th of 150+)",
-      "courses": [
-        "Digital Signal Processing",
-        "Data Structures & Algorithms",
-        "Digital Logic Design",
-        "Embedded Systems Design (8051)",
-        "Microprocessor & Assembly Language (8086)"
-      ]
-    },
-    {
-      "institution": "Notre Dame College, Dhaka",
-      "url": "https://ndc.edu.bd/",
-      "area": "Science",
-      "studyType": "Higher Secondary School Certificate",
-      "startDate": "2017-07",
-      "endDate": "2019-06",
-      "score": "GPA 5.00"
-    }
-  ],
-
-  "awards": [
-    {
-      "title": "OIC Full Scholarship",
-      "date": "2020-01",
-      "awarder": "Islamic University of Technology",
-      "summary": "Awarded for ranking first in the IUT entrance examination."
-    },
-    {
-      "title": "ABEx Award - Best Science Task, IRC 2023",
-      "date": "2023-09",
-      "awarder": "International Rover Challenge",
-      "summary": "Recognised the outstanding science-task of Project Altair's rover."
-    }
-  ],
-
-  "certificates": [],
-
-  "publications": [
-    {
-      "name": "Flow-Based Path Planning for Multiple Homogenous UAVs for Outdoor Formation-Flying",
-      "publisher": "IEEE (ICMERR 2022)",
-      "releaseDate": "2022-12-01",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Techno-Economic Analysis of Solar/Wind/Biogas Hybrid Renewable Energy System in Bangladesh Using Metaheuristic Algorithms",
-      "publisher": "IEEE (ICAEECI 2023)",
-      "releaseDate": "2023-10-01",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular-Camera Lane Detection",
-      "publisher": "Islamic University of Technology (Undergraduate Thesis)",
-      "releaseDate": "2024-04-01",
-      "url": "",
-      "summary": ""
-    }
-  ],
-
   "skills": [
     {
       "name": "Embedded & Edge-AI Development",
@@ -184,23 +205,5 @@
     { "name": "Capture-the-Flag Hacking", "keywords": ["Embedded Security", "CTF Competitions"] }
   ],
 
-  "references": [],
-
-  "projects": [
-    {
-      "name": "Project Altair Mars Rover",
-      "startDate": "2022-01",
-      "endDate": "2024-12",
-      "description": "Designed and built a Mars-analog rover with multidisciplinary undergraduate team; responsible for full electrical and software stack.",
-      "url": "https://www.linkedin.com/company/project-altair/"
-    },
-    {
-      "name": "Swarm-UAV Formation-Flying Algorithm",
-      "startDate": "2022-06",
-      "endDate": "2022-08",
-      "description": "Flow-based path-planning algorithm enabling outdoor formation flight of multiple homogenous UAVs.",
-      "highlights": ["Implemented from scratch in C++ and Python", "Validated through real-world flight tests"],
-      "url": ""
-    }
-  ]
+  "references": []
 }
