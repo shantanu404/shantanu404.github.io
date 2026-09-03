@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Courses and teaching responsibilities",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-resume",
           title: "Resume",
@@ -30,15 +30,32 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-others",
+          title: "Others",
+          description: "A glimpse into my passion projects and hobbies",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/others/";
+          },
+        },{id: "nav-repositories",
+          title: "Repositories",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
+          },
         },{id: "news-updated-my-portfolio-hoping-to-post-updates-here-regularly-collision",
           title: 'Updated my portfolio. Hoping to post updates here regularly :collision:',
+          description: "",
+          section: "News",},{id: "news-i-am-joining-texas-state-university-s-department-of-computer-science-as-a-doctoral-instructional-assistant-my-duties-include-serving-as-a-teaching-assistant-for-fundamentals-of-computing-systems-and-pursuing-research-in-real-time-systems-under-the-guidance-of-dr-kecheng-yang",
+          title: 'I am joining Texas State University’s Department of Computer Science as a Doctoral...',
           description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%68%61%6E%74%61%6E%75%72%61%68%6D%61%6E@%69%75%74-%64%68%61%6B%61.%65%75%64", "_blank");
+          window.open("mailto:%6D%73%68%61%6E%74%61%6E%75@%74%78%73%74%61%74%65.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
