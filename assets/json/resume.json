@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Shantanu Rahman",
-    "label": "Robotics & Computer Vision Engineer",
+    "label": "Computer Engineer | ML Engineer | Real Time Systems Analyst",
     "image": "",
-    "email": "shantanurahman@iut-dhaka.edu",
+    "email": "mshantanu@txstate.edu",
     "phone": "",
     "url": "https://www.shantanurahman.com",
-    "summary": "Robotics & Computer Vision engineer with 3 years of professional experience on edge/IoT systems and robotics, 8+ years of coding in C/C++ and Python, and a strong competitive-programming background. Experienced in computer-vision pipelines, model optimisation (ONNX/TensorRT/DeepStream) and research-driven problem-solving.",
+    "summary": "CS engineer with 3 years of professional experience on edge and real time systems, 8+ years of coding in C/C++ and Python, and a strong competitive-programming background. Experienced in computer-vision pipelines, model optimisation (ONNX/TensorRT/DeepStream) and research-driven problem-solving.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -120,11 +120,20 @@
 
   "work": [
     {
+      "name": "Texas State University",
+      "position": "Doctoral Instructional Assistant",
+      "url": "https://www.txst.edu/",
+      "startDate": "2026-08-15",
+      "endDate": "",
+      "summary": "Serve as a Teaching Assistant for Fundamentals of Computing Systems and pursue research in Real-Time Systems under the guidance of Dr. Kecheng Yang.",
+      "highlights": ["Teach and support students in Fundamentals of Computing Systems", "Conduct research in real-time systems"]
+    },
+    {
       "name": "Therap (BD) Ltd.",
       "position": "Machine Learning Engineer",
       "url": "https://therapbd.com/",
       "startDate": "2024-07",
-      "endDate": "",
+      "endDate": "2026-08-14",
       "summary": "Edge-AI model testing and deployment (ONNX, TensorRT, DeepStream) on Jetson, Raspberry Pi and LattePanda platforms; coordinated multi-camera data collection and annotation.",
       "highlights": [
         "Brought multiple CV models from research prototypes to real-time inference on Jetson platforms",

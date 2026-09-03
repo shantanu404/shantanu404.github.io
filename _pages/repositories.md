@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description:
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 | <img src="/assets/img/repos/shaker.png" width="80" alt="shaker"/> | **[shaker](https://github.com/shantanu404/shaker)** <br>A simple checker script for competitive programmers. It compiles and checks your solution with only one command and provides a little structure to your workspace. |

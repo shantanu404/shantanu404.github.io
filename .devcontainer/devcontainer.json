@@ -27,5 +27,10 @@
     }
   },
 
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+
+  "containerEnv": {
+    "GEM_HOME": "/home/vscode/.gem",
+    "BUNDLE_PATH": "/home/vscode/.gem"
+  }
 }
